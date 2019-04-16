@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
             score += 1;
         } else wrong += " 2,";
 
-        /** this section gets the answers fron a Checkbox field
+        /** this section gets the answers from a Checkbox field
          * Checkboxs are used for questions with multiple answers */
         CheckBox ans3a = findViewById(R.id.Question_Answer3a);
         CheckBox ans3c = findViewById(R.id.Question_Answer3c);
