@@ -61,14 +61,11 @@
                         android:text="@string/Q1d" />
                 </RadioGroup>
 
-
             </LinearLayout>
-
 
             <View
                 style="@style/vertical_view"
                 android:background="@android:color/darker_gray">
-
             </View>
 
             <LinearLayout
@@ -77,7 +74,6 @@
                 android:layout_margin="10dp"
                 android:layout_weight="1"
                 android:orientation="vertical">
-
 
                 <LinearLayout
                     android:layout_width="wrap_content"
@@ -91,7 +87,6 @@
                     <TextView
                         style="@style/question"
                         android:text="@string/Q2" />
-
                 </LinearLayout>
 
                 <RadioGroup
