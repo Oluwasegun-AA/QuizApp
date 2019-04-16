@@ -13,13 +13,11 @@ import android.widget.Toast;
 import com.example.com.quizapp.R;
 
 public class MainActivity extends AppCompatActivity {
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-
     /** this section gets the click feedback from the checkbox and radial button
      * bearing the answers
      * i.e Question one answer is under button ID: Question_Answer1
